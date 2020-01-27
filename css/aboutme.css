@@ -74,6 +74,13 @@ figcaption {
     display: none;
 }
 
+figure {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+}
+
 /*These are the About Me media queries */ 
 
 @media screen and (max-width: 800px) {
