@@ -70,6 +70,10 @@
     margin-top: 0em;
 }
 
+figcaption {
+    display: none;
+}
+
 /*These are the About Me media queries */ 
 
 @media screen and (max-width: 800px) {
