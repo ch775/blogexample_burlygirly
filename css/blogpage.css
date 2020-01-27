@@ -1,0 +1,70 @@
+/* Main body CSS for the individual blog pages */ 
+.blogbody {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.headerphoto {
+    margin-top: 1em;
+}
+
+.bodyphoto {
+    max-width: 26em;
+    float: right;
+    padding-left: 0.5em;
+}
+
+.bodyphotoleft {
+    max-width: 26em;
+    float: left;
+    padding-right: 0.75em;
+}
+
+.authorimage {
+    width: 7em;
+    height: auto;
+    border-radius: 70%;
+    margin: 0 0.5em
+}
+
+.author {
+    max-width: 26em;
+    display: flex;
+    margin: 1.5em 0;
+    font-size: 0.8em;
+    align-items: center;
+}
+
+.alignauthor {
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    align-content: flex-start;
+    padding-top: 3em;
+}
+
+h3 {
+    margin: 0;
+}
+
+h2 {
+    margin-top: 1em;
+}
+
+/*This is the CSS for the NEXT section */ 
+
+h4.next {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 1em;
+    color: #000000;
+    display: flex;
+    max-width: 90%;
+    justify-content: flex-end;
+    align-content: center;
+}
+
+.arrows {
+    font-family: 'Herr Von Muellerhoff', cursive;
+    font-size: 1.5em;
+    letter-spacing: -0.1em;
+}
