@@ -1,6 +1,6 @@
-@import "/aboutme.css";
-@import "/blogpage.css";
-@import "/contact.css";
+@import "css/aboutme.css";
+@import "css/blogpage.css";
+@import "css/contact.css";
 
 /*CSS for the NAV section */
 html {
