@@ -6,12 +6,12 @@
 html {
     font-family: 'Open Sans Condensed', sans-serif;
     background-color: #fbf9f8;
-    margin: 0px;
+    margin: 0;
 }
 
 header {
     background-color: #ffffff;
-    margin: 0px;
+    margin: 0;
 }
 
 nav {
@@ -92,7 +92,7 @@ h1 a {
     display: flex;
     width: 90%;
     justify-content: center;
-    margin: 0px auto;
+    margin: 0 auto;
 }
 
 /*End of CSS for the BODY section */
